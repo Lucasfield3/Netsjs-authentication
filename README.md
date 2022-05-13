@@ -1,4 +1,4 @@
-# Api de autenticação de usuário com tratamento de erros.
+# Api de autenticação de usuário usando jwt com tratamento de erros.
 
 <div style='display: inline-block'>
   <h3>Tecnologias:</h3>
