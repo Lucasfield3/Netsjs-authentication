@@ -1,5 +1,8 @@
 # Api de autenticação de usuário usando jwt com tratamento de erros.
 
+Api focada em controle de rotas usando o jwt(json web token) como método de autenticação de usuário.<br>
+Foi aplicado uma arquitetura para o tratamentos de erros, tanto como erros de  requisições e respostas como erros que venham do banco de dados, para uma melhor experiência para quem for consumir a aplicação.
+
 <div style='display: inline-block'>
   <h3>Tecnologias:</h3>
   <img align='center' title='typescript' alt='typescript' height='30' width='40' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg' />
